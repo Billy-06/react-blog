@@ -1,0 +1,9 @@
+{
+    "short_name": "Billy's Blog",
+    "name": "Billy's React Blog",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "backgground_color": "#ffffff"
+}
